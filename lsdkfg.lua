@@ -15,5 +15,3 @@ for i, v in pairs(game:GetService('Teams'):GetDescendants()) do
 				end
 			end
 		end)
-		
-	end)
